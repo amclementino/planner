@@ -1,4 +1,5 @@
 import { X, UserRound, Mail } from "lucide-react";
+import { FormEvent } from "react";
 
 interface ConfirmTripModalProps {
     closeConfirmTripModal: () => void,
